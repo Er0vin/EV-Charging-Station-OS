@@ -15,10 +15,3 @@ The project is built using a **multi-file structure**, ensuring modularity, clea
 *   Dynamic allocation of charging resources.
 *   Real-time queue and station status tracking.
 *   Modular codebase allowing for easy scalability and future feature integration.
-
-## Getting Started
-To run this simulation locally, you will need a standard C compiler (e.g., GCC).
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Er0vin/EV-Charging-Station-OS.git](https://github.com/Er0vin/EV-Charging-Station-OS.git)
